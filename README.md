@@ -1,2 +1,2 @@
 # João Paulo Nogueira Cavalcante
-## Data Scientist and Astrophysics
+## Data Scientist and Astrophysicist
